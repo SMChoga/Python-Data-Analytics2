@@ -4,7 +4,6 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [References](#references)
@@ -14,11 +13,12 @@ This project is a Python-based data analytics tool designed to analyze various j
 The code simulates a real-world scenario where a job seeker filters job roles related to "Data Analyst" and checks skill compatibility using structured Python classes and logic.
 
 #### Time Series Chart
-![Untitled](https://github.com/user-attachments/assets/a73952e5-92fb-41b3-9f7b-daefb44d4983)
+<img width="1308" height="725" alt="1" src="https://github.com/user-attachments/assets/fa0faa73-c618-497c-b869-f935ad2a976a" />
+
 
 
 #### Cluster Bar Chart
-![Untitled1](https://github.com/user-attachments/assets/4f89bb26-ae74-462d-b7e5-2055a67a372a)
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/e5bcc367-4a72-47ee-9d5a-d51a783770ef" />
 
 
 ### Data Source
