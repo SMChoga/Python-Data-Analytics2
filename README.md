@@ -12,13 +12,15 @@
 This project is a Python-based data analytics tool designed to analyze various job roles and evaluate how well a candidate's skills align with industry demands. 
 The code simulates a real-world scenario where a job seeker filters job roles related to "Data Analyst" and checks skill compatibility using structured Python classes and logic.
 
-#### Time Series Chart
-<img width="1308" height="725" alt="1" src="https://github.com/user-attachments/assets/fa0faa73-c618-497c-b869-f935ad2a976a" />
+#### Groupby Function
+<img width="1132" height="390" alt="1" src="https://github.com/user-attachments/assets/45c8be80-ce36-456c-955c-4e4988cc2fb3" />
 
 
 
-#### Cluster Bar Chart
-<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/e5bcc367-4a72-47ee-9d5a-d51a783770ef" />
+
+#### Bar Chart
+<img width="1039" height="550" alt="2" src="https://github.com/user-attachments/assets/5403006a-b356-45dc-9fbd-870e8363eee7" />
+
 
 
 ### Data Source
