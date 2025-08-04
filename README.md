@@ -13,7 +13,7 @@ This project is a Python-based data analytics tool designed to analyze various j
 The code simulates a real-world scenario where a job seeker filters job roles related to "Data Analyst" and checks skill compatibility using structured Python classes and logic.
 
 #### Horizontal Bar Chart
-<img width="1366" height="780" alt="3" src="https://github.com/user-attachments/assets/77df042b-7a98-43dd-a081-a977b8901a7b" />
+<img width="1180" height="536" alt="3" src="https://github.com/user-attachments/assets/5ea78c00-1b83-461f-ae17-2c2c04a441da" />
 
 
 #### Bar Chart
